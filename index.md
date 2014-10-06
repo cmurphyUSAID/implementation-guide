@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 permalink: /
 layout: hero
 filename: index.md

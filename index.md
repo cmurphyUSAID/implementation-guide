@@ -3,10 +3,9 @@ published: true
 permalink: /
 layout: hero
 filename: index.md
-title: USAID WIP
+title: USAID Implementation Guide Homepage
 ---
 
-Lorem Ipsum
 
 This is a site for implementation guidance of [USAID's Development Data policy (ADS 579)](http://pdf.usaid.gov/pdf_docs/pbaab096.pdf).  The intention of open data is to share information from USAID funded programs in such a way that others outside of the program could use it.
 
@@ -24,4 +23,4 @@ General Public Start Here
 
 
 
-USAID WIP
+

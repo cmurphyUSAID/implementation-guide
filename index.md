@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 permalink: /
 layout: hero
 filename: index.md
@@ -11,13 +11,13 @@ This is a site for implementation guidance of [USAID's Development Data policy (
 
 The main purpose of this site is to provide background about this policy, to share current required contract language, and most importantly to gain direct input and guidance from USAID CORs, AORs, implementing partners, and other stakeholders that are best positioned to identify where the contract language will meet the primary goal of open data- and what needs to be changed.
 
-USAID CORs and AORs Start Here
+[USAID CORs and AORs Start Here](aorcor.md)
 
-USAID Data Stewards Start Here
+[USAID Data Stewards Start Here](datasteward.md)
 
-Implementing Partners Start Here
+[Implementing Partners Start Here](implementingpartners.md)
 
-General Public Start Here
+[General Public Start Here](public.md)
 
 
 
